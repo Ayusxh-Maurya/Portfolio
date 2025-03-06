@@ -1,0 +1,56 @@
+.hero-section {
+    padding: 116px 0;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: white;
+  }
+  
+  .projects-section {
+    padding: 100px 0;
+  }
+  
+  .testimonials-section {
+    padding: 100px 0;
+    background: #f8f9fa;
+  }
+  
+  .cta-section {
+    padding: 100px 0;
+    background: linear-gradient(135deg, #2a5298 0%, #263d67 100%);
+    color: white;
+    text-align: center;
+  }
+  
+  .cta-section .btn {
+    margin-top: 20px;
+  }
+  
+  .testimonial-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .testimonial-card p {
+    font-style: italic;
+  }
+  
+  .testimonial-card h5 {
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  
+  .card {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .project-image {
+    height: 200px;
+    object-fit: cover;
+  }
+  
